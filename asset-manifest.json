@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/coin-base/static/css/main.6e442237.css",
+    "main.js": "/coin-base/static/js/main.9df967ff.js",
+    "static/media/about.png": "/coin-base/static/media/about.6713d5aa6adaddde4f7a.png",
+    "static/media/home.png": "/coin-base/static/media/home.a9136be591eabf538074.png",
+    "static/media/spacemen.png": "/coin-base/static/media/spacemen.2b581b08cad1126d0e93.png",
+    "static/media/card.png": "/coin-base/static/media/card.f9017bf395d5cc4917d5.png",
+    "static/media/signupBackground.png": "/coin-base/static/media/signupBackground.a9042bba874ddb162045.png",
+    "static/media/cards.png": "/coin-base/static/media/cards.c40e6d333024dffc029c.png",
+    "index.html": "/coin-base/index.html",
+    "main.6e442237.css.map": "/coin-base/static/css/main.6e442237.css.map",
+    "main.9df967ff.js.map": "/coin-base/static/js/main.9df967ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e442237.css",
+    "static/js/main.9df967ff.js"
+  ]
+}
